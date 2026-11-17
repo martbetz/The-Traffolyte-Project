@@ -7,7 +7,7 @@
 </p>
 
 <p>
-   The objective of <b>The Traffolyte Project</b> is to collate as much information as possible about <b>Traffolyte</b> multi-layered phenolic plastic sheets used for industrial engraving and signage. <!-- Please reference the project <a href="https://github.com/yourusername/The-Traffolyte-Project/blob/main/FAQs.md">FAQs</a>. -->
+   The objective of <b>The Traffolyte Project</b> is to collate as much information as possible about the <b>Traffolyte</b>&nbsp;— a multi-layered phenolic plastic primarily used for engraved industrial signage. <!-- Please reference the project <a href="https://github.com/yourusername/The-Traffolyte-Project/blob/main/FAQs.md">FAQs</a>. -->
 </p>
 
 ---
