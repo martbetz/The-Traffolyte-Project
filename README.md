@@ -23,15 +23,27 @@
 <h3 align="center">History & Manufacture</h3>
 
 <p>
-   <b>Traffolyte</b> is a multi-layered phenolic plastic sheet specifically designed for engraving, originally developed and manufactured in the late 1920s and 1930s by <b>Metropolitan-Vickers Electrical Co. Ltd.</b> (🇬🇧 GBR).
+   <b>Traffolyte</b> is a multi-layered phenolic plastic sheet specifically designed for engraving, first produced in 1927 by <b>Metropolitan-Vickers Electrical Co. Ltd.</b> (🇬🇧 GBR) initially for transformer nameplates (<a href="https://www.gracesguide.co.uk/Metropolitan-Vickers_Electrical_Co_1899-1949_by_John_Dummelow:_1919-1929">1</a>).
 </p>
 
 <p>
-   The material takes its name directly from <a href="https://www.google.com/maps?q=53.4685,-2.3218">Trafford Park, Manchester</a> (England) where Metropolitan-Vickers operated its massive electrical engineering works (<a href="https://www.gracesguide.co.uk/Metropolitan-Vickers">1</a>).
+   The material takes its name directly from <a href="https://www.google.com/maps?q=53.4685,-2.3218">Trafford Park, Manchester</a> (England), where Metropolitan-Vickers operated its massive electrical engineering works (<a href="https://www.gracesguide.co.uk/Metropolitan-Vickers">2</a>).
 </p>
 
 <p>
-   Following corporate mergers in the mid-20th century, trademark ownership and production passed through <b>Associated Electrical Industries (AEI)</b> and later <b>Formica Ltd</b> (eventually becoming a genericized trademark in the UK and Commonwealth for engraved multi-layer phenolic labels) (<a href="https://www.ipo.gov.uk/">2</a>).
+   In 1945, Metropolitan-Vickers sold the complete Traffolyte business to <b>De La Rue Insulation Ltd</b> (which later partnered with American Cyanamid to form <b>Formica Ltd</b> in the UK), before De La Rue exited the Traffolyte manufacturing business in the early 1960s (<a href="https://www.gracesguide.co.uk/Thomas_De_La_Rue_and_Co">3</a>).
+</p>
+
+---
+
+<h3 align="center">Trademark & Patent Status</h3>
+
+<p>
+   <b>Trademark Status (Genericized):</b> Despite originating as a proprietary trade name used in mid-20th-century trade literature by Metropolitan-Vickers and De La Rue, there is no surviving record of <i>Traffolyte</i> maintaining an active registered trademark in either the United Kingdom (<a href="https://www.ipo.gov.uk/">UK IPO</a>) or the United States (<a href="https://www.uspto.gov/">USPTO</a>) (<a href="https://en.wikipedia.org/wiki/Traffolyte">4</a>). Today, the name functions entirely as a <b>genericized term</b> across the UK, Commonwealth, and international engineering specifications for any multi-layered phenolic or acrylic-equivalent engraving laminate.
+</p>
+
+<p>
+   <b>Patent History:</b> No single standalone patent covers the word <i>Traffolyte</i> itself. Instead, its early manufacture relied on broader 1910s–1930s thermosetting phenol-formaldehyde resin and high-pressure paper lamination patents (building upon foundational Bakelite-era patents and early electrical insulation processes developed by Metropolitan-Vickers and Westinghouse) (<a href="https://www.gracesguide.co.uk/Metropolitan-Vickers_Electrical_Co_1899-1949_by_John_Dummelow:_1919-1929">1</a>). All foundational process and composition patents expired decades ago, leaving the multi-ply engraving laminate architecture in the public domain.
 </p>
 
 ---
