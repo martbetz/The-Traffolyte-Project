@@ -39,11 +39,11 @@
 <h3 align="center">Trademark & Patent Status</h3>
 
 <p>
-   <b>Trademark status (Genericised):</b> Despite originating as a proprietary trade name used in mid-20th-century trade literature by Metropolitan-Vickers and De La Rue, there is no surviving record of <i>Traffolyte</i> maintaining an active registered trademark in either the United Kingdom (<a href="https://www.ipo.gov.uk/">UK IPO</a>) or the United States (<a href="https://www.uspto.gov/">USPTO</a>) (<a href="https://en.wikipedia.org/wiki/Traffolyte">4</a>); the name functions entirely as a <b>genericised term</b> across the UK, Commonwealth, and international engineering specifications for any multi-layered phenolic or acrylic-equivalent engraving laminate.
+   Despite originating as a proprietary trade name used in mid-20th-century trade literature by Metropolitan-Vickers and De La Rue, there is no surviving record of <i>Traffolyte</i> maintaining an active registered trademark in either the United Kingdom (<a href="https://www.ipo.gov.uk/">UK IPO</a>) or the United States (<a href="https://www.uspto.gov/">USPTO</a>) (<a href="https://en.wikipedia.org/wiki/Traffolyte">4</a>); the name functions entirely as a <b>genericised term</b> across the UK, Commonwealth, and international engineering specifications for any multi-layered phenolic or acrylic-equivalent engraving laminate.
 </p>
 
 <p>
-   <b>Patent History:</b> No single standalone patent covers the word <i>Traffolyte</i> itself; instead, its early manufacture relied on broader 1910s–1930s thermosetting phenol-formaldehyde resin and high-pressure paper lamination patents (building upon foundational Bakelite-era patents and early electrical insulation processes developed by Metropolitan-Vickers and Westinghouse) (<a href="https://www.gracesguide.co.uk/Metropolitan-Vickers_Electrical_Co_1899-1949_by_John_Dummelow:_1919-1929">1</a>)&nbsp;— all foundational process and composition patents expired decades ago, leaving the multi-ply engraving laminate architecture in the public domain.
+   No single standalone patent covers the word <i>Traffolyte</i> itself; instead, its early manufacture relied on broader 1910s–1930s thermosetting phenol-formaldehyde resin and high-pressure paper lamination patents (building upon foundational Bakelite-era patents and early electrical insulation processes developed by Metropolitan-Vickers and Westinghouse) (<a href="https://www.gracesguide.co.uk/Metropolitan-Vickers_Electrical_Co_1899-1949_by_John_Dummelow:_1919-1929">1</a>)&nbsp;— all foundational process and composition patents expired decades ago, leaving the multi-ply engraving laminate architecture in the public domain.
 </p>
 
 ---
