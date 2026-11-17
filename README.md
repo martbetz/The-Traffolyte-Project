@@ -39,11 +39,11 @@
 <h3 align="center">Trademark & Patent Status</h3>
 
 <p>
-   <b>Trademark Status (Genericized):</b> Despite originating as a proprietary trade name used in mid-20th-century trade literature by Metropolitan-Vickers and De La Rue, there is no surviving record of <i>Traffolyte</i> maintaining an active registered trademark in either the United Kingdom (<a href="https://www.ipo.gov.uk/">UK IPO</a>) or the United States (<a href="https://www.uspto.gov/">USPTO</a>) (<a href="https://en.wikipedia.org/wiki/Traffolyte">4</a>). Today, the name functions entirely as a <b>genericized term</b> across the UK, Commonwealth, and international engineering specifications for any multi-layered phenolic or acrylic-equivalent engraving laminate.
+   <b>Trademark status (Genericised):</b> Despite originating as a proprietary trade name used in mid-20th-century trade literature by Metropolitan-Vickers and De La Rue, there is no surviving record of <i>Traffolyte</i> maintaining an active registered trademark in either the United Kingdom (<a href="https://www.ipo.gov.uk/">UK IPO</a>) or the United States (<a href="https://www.uspto.gov/">USPTO</a>) (<a href="https://en.wikipedia.org/wiki/Traffolyte">4</a>); the name functions entirely as a <b>genericised term</b> across the UK, Commonwealth, and international engineering specifications for any multi-layered phenolic or acrylic-equivalent engraving laminate.
 </p>
 
 <p>
-   <b>Patent History:</b> No single standalone patent covers the word <i>Traffolyte</i> itself. Instead, its early manufacture relied on broader 1910s–1930s thermosetting phenol-formaldehyde resin and high-pressure paper lamination patents (building upon foundational Bakelite-era patents and early electrical insulation processes developed by Metropolitan-Vickers and Westinghouse) (<a href="https://www.gracesguide.co.uk/Metropolitan-Vickers_Electrical_Co_1899-1949_by_John_Dummelow:_1919-1929">1</a>). All foundational process and composition patents expired decades ago, leaving the multi-ply engraving laminate architecture in the public domain.
+   <b>Patent History:</b> No single standalone patent covers the word <i>Traffolyte</i> itself; instead, its early manufacture relied on broader 1910s–1930s thermosetting phenol-formaldehyde resin and high-pressure paper lamination patents (building upon foundational Bakelite-era patents and early electrical insulation processes developed by Metropolitan-Vickers and Westinghouse) (<a href="https://www.gracesguide.co.uk/Metropolitan-Vickers_Electrical_Co_1899-1949_by_John_Dummelow:_1919-1929">1</a>)&nbsp;— all foundational process and composition patents expired decades ago, leaving the multi-ply engraving laminate architecture in the public domain.
 </p>
 
 ---
@@ -51,22 +51,22 @@
 <h3 align="center">Material Composition & Applications</h3>
 
 <p>
-   During the rapid expansion of electrical switchgear, railway signaling, and marine engineering in the 20th century, industries required durable and non-conductive identification plates that would not corrode or fade like painted metal.
+   During the rapid expansion of electrical switchgear, railway signalling, and marine engineering in the 20th century, industries required durable and non-conductive identification plates that would not corrode or fade like painted metal.
 </p>
 
 <p>
-   Traffolyte consists of a sandwich of three or more layers of phenolic resin-impregnated paper bonded under high heat and pressure. Because the outer layers are a different color from the inner core, engraving through the top surface reveals the contrasting core underneath. Key characteristics and components of the Traffolyte system include:
+   Traffolyte consists of a sandwich of three or more layers of phenolic resin-impregnated paper bonded under high heat and pressure. Because the outer layers are a different colour from the inner core, engraving through the top surface reveals the contrasting core underneath. Key characteristics and components of the Traffolyte system include:
 </p>
 
 - **core & cap construction:** typically constructed as a 3-ply laminate (cap–core–cap), allowing double-sided engraving or preventing warping; standard thicknesses ranged from 0.8mm to 3.2mm
 
-- **high-contrast colorways:** standard industrial combinations include white/black/white (yielding black lettering on a white background), black/white/black, yellow/black/yellow (for warning notices), and red/white/red (for emergency and fire switchgear)
+- **high-contrast colourways:** standard industrial combinations include white/black/white (yielding black lettering on a white background), black/white/black, yellow/black/yellow (for warning notices), and red/white/red (for emergency and fire switchgear)
 
 - **dielectric & chemical resistance:** Traffolyte (being based on a thermosetting phenolic resin similar to Bakelite) is naturally self-extinguishing, electrically insulating, resistant to oils, resistant to solvents, and resistant to mild acids
 
 - **mechanical & laser engraving:** originally cut using pantograph engraving machines with rotary cutters, modern variants (often acrylic-based equivalents) are also formulated for CO₂ laser engraving
 
-- **fixing & mounting:** labels were traditionally supplied with beveled edges and pre-drilled corner holes for brass rivets or screws, or backed with industrial adhesive for control panels
+- **fixing & mounting:** labels were traditionally supplied with bevelled edges and pre-drilled corner holes for brass rivets or screws, or backed with industrial adhesive for control panels
 
 <div align="center">
 
@@ -81,9 +81,9 @@
 | Thin / Flexible Gauge | 0.8mm (1/32") | Curved surfaces & instrument dials |
 | Standard Finishes | Satin / Matt / Gloss | Matt/Satin preferred to reduce control room glare |
 
-<h3>Common Industrial Color Codes</h3>
+<h3>Common Industrial Colour Codes</h3>
 
-| CODE | SURFACE COLOR | ENGRAVED CORE COLOR | TYPICAL APPLICATION |
+| CODE | SURFACE COLOUR | ENGRAVED CORE COLOUR | TYPICAL APPLICATION |
 | :--- | :--- | :--- | :--- |
 | W/B/W | White | Black | General electrical identification & schematics |
 | B/W/B | Black | White | Instrument panels & high-contrast legend plates |
